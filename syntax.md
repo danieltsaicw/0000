@@ -7,4 +7,4 @@
 | tenary operator |boolean| 1 if _condition_ else 0 |    if _condition_ ? 1 : 0 | ?|
 | controller || if _condition_ : <br> &nsbp; &nsbp; _exp_  else: |    if _condition_ ? 1 : 0 | ?|
 | print || print(_val_, end='') |    put(_val_) | Debug.print() |
-| for || for _x_ in range(99):<br> |    | Debug.print() |
+| for || for _i_ in range(99):<br> |    | Debug.print() |

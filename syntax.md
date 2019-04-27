@@ -1,4 +1,4 @@
-| Tables   |output|      Python      |  Ruby | VB|
+| Tables   |output|      Python      |  Ruby | Visual Basic|
 |----------|---|:-------------|:------:|:------:|
 | AND |foo|  AND | && | AND | 
 | OR |x|  AND | \|\| | AND | 

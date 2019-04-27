@@ -3,4 +3,4 @@
 | AND |foo|  AND | && | AND | 
 | OR |x|  AND | \|\| | AND | 
 | array |x|    List =[,]  |   Array = [,] | Dim Array As integer = {,} |
-| include? |boolean| target In range |    range.include? (target) | ?|
+| include? |boolean| target_ In range_ |    range_.include? (target_) | ?|

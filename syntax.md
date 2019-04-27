@@ -1,5 +1,5 @@
-| Tables   |      Python      |  Cool |
-|----------|:-------------:|------:|
-| AND |  AND | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Tables   |      Python      |  Ruby | VB|
+|----------|:-------------:|------:|------:|
+| AND |  AND | && | AND | 
+| array |    List   |   Array | ? |
+| col 3 is | right-aligned |    $1 | f|

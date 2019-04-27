@@ -7,8 +7,8 @@
 | tenary operator |boolean| 1 if _condition_ else 0 |    if _condition_ ? 1 : 0 | ?|
 | controller || if _condition_ : <br> &nsbp; &nsbp; _exp_  else: |    if _condition_ ? 1 : 0 | ?|
 | print || print(_val_, end=' x') |    put(_val_) | Debug.print() |
-| for || for _i_ in range(99):<br> |    | Debug.print() |
+| for (fix) || for _i_ in range(99):<br> |    | Debug.print() |
 | for || for _i_ in \[\[1,2\],\[3.4\]\] :<br> |    | Debug.print() |
-| for || for _idx_, _val_ in enumerate(ints):<br> |  _range_.each_with_index do \|_val_, _idx|\|  | Debug.print() |
+| for (range) || for _idx_, _val_ in enumerate(ints):<br> |  _range_.each_with_index do \|_val_, _idx|\|  | Debug.print() |
 
 for idx, val in enumerate(ints):

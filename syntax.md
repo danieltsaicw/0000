@@ -9,6 +9,6 @@
 | print || print(_val_, end=' x') |    put(_val_) | Debug.print() |
 | for || for _i_ in range(99):<br> |    | Debug.print() |
 | for || for _i_ in \[\[1,2\],\[3.4\]\] :<br> |    | Debug.print() |
-| for || for _idx_, _val_ in enumerate(ints):<br> |    | Debug.print() |
+| for || for _idx_, _val_ in enumerate(ints):<br> |  _range_.each_with_index do \|_val_, _idx|\|  | Debug.print() |
 
 for idx, val in enumerate(ints):

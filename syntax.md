@@ -8,3 +8,4 @@
 | controller || if _condition_ : <br> &nsbp; &nsbp; _exp_  else: |    if _condition_ ? 1 : 0 | ?|
 | print || print(_val_, end='') |    put(_val_) | Debug.print() |
 | for || for _i_ in range(99):<br> |    | Debug.print() |
+| for || for _i_ in \[\[1,2\],\[3.4\]\] :<br> |    | Debug.print() |
